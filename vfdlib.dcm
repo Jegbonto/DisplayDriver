@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC846
+D 45V Vce, 0.1A Ic, NPN, SOT-23
+K NPN 
+F http://www.fairchildsemi.com/ds/BC/BC850.pdf
+$ENDCMP
+#
+#End Doc Library
